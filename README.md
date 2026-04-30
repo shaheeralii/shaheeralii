@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Shaheer 👋
 
-<!--
-**shaheeralii/shaheeralii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSCS undergraduate from Karachi, Pakistan.  
+Semester 1 — but not starting from zero.
 
-Here are some ideas to get you started:
+## Currently Learning
+- C++ — core programming, logic building, OOP fundamentals
+- Java — picking it up alongside C++
+- HTML — getting into web basics
+- Data Structures & Core CS Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Already Know
+- Python — built projects, comfortable with the language
+
+## This GitHub
+A public record of my CS journey from day one.  
+Labs, personal projects, and experiments — all written clean, organized properly, and pushed with intention.
+
+## Interests
+I'm a CS student who also genuinely loves the hardware side —  
+architecture, how machines actually work under the software, the physical layer of computing.  
+The full stack, top to bottom.
+
+## Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
+> *"Writing code that barely works, then making it work better."*
+
+📍 Karachi, Pakistan · 🎓 BSCS Semester 1
