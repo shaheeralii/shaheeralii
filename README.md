@@ -8,9 +8,12 @@ Semester 1 — but not starting from zero.
 - Java — picking it up alongside C++
 - HTML — getting into web basics
 - Data Structures & Core CS Concepts
+- Advanced file handling
 
 ## Already Know
+- Pseudocode — started learning programming from here, have a strong grasp of it
 - Python — built projects, comfortable with the language
+
 
 ## This GitHub
 A public record of my CS journey from day one.  
