@@ -32,6 +32,5 @@ The full stack, top to bottom.
 
 ---
 
-> *"Writing code that barely works, then making it work better."*
 
 📍 Karachi, Pakistan · 🎓 BSCS Semester 1
