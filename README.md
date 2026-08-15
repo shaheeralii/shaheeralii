@@ -2,7 +2,7 @@
 
 # Syed Shaheer Ali
 
-**Computer Science Student · Building a Software Development Foundation · Moving Toward AI/ML**
+**Computer Science Student · Building a Software Development Foundation · Advancing Towards AI/ML**
 
 BSCS, Bahria University Karachi · Class of 2029 · Karachi, Pakistan
 
