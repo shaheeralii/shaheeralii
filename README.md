@@ -101,7 +101,7 @@ JavaScript · TypeScript
 
 A selection of projects that represent how I've been applying programming concepts throughout my coursework and independent development.
 
-### ⚒️ [Bit Forge](https://github.com/shaheeralii/Bit-Forge)
+### ⚒️ [Bit Forge](https://github.com/shaheeralii/BitForge)
 
 A browser-based toolkit for exploring **number systems, binary representation, bits, signed integers, two's complement, and character encoding** through interactive visualizations.
 
@@ -118,7 +118,7 @@ The project brings several low-level computing concepts together into a practica
 **Tech:** `HTML` · `CSS` · `JavaScript`
 
 **Live:** [bit-forge-tech-forge5.vercel.app](https://bit-forge-tech-forge5.vercel.app/)  
-**Repo:** [github.com/shaheeralii/Bit-Forge](https://github.com/shaheeralii/Bit-Forge)
+**Repo:** [github.com/shaheeralii/BitForge](https://github.com/shaheeralii/BitForge)
 
 ---
 
