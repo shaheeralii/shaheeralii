@@ -103,7 +103,7 @@ A selection of projects that represent how I've been applying programming concep
 
 ### ⚒️ [Bit Forge](https://github.com/shaheeralii/BitForge)
 
-A browser-based toolkit for exploring **number systems, binary representation, bits, signed integers, two's complement, and character encoding** through interactive visualizations.
+A browser-based toolkit for exploring **number systems, binary representation, bits, signed integers, two's complement, binary operations, and character encoding** through interactive visualizations.
 
 The project brings several low-level computing concepts together into a practical interactive experience rather than presenting them as isolated calculations.
 
@@ -114,10 +114,11 @@ The project brings several low-level computing concepts together into a practica
 - Signed integer and two's-complement operations
 - Text & ASCII character conversion
 - Binary representation exploration
+- Binary operations (add, subtract, multiply, div)
 
 **Tech:** `HTML` · `CSS` · `JavaScript`
 
-**Live:** [bit-forge-tech-forge5.vercel.app](https://bit-forge-tech-forge5.vercel.app/)  
+**Live:** [bitforge-tool.vercel.app](https://bitforge-tool.vercel.app/)  
 **Repo:** [github.com/shaheeralii/BitForge](https://github.com/shaheeralii/BitForge)
 
 ---
