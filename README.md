@@ -101,25 +101,28 @@ JavaScript · TypeScript
 
 A selection of projects that represent how I've been applying programming concepts throughout my coursework and independent development.
 
-### ⚒️ [Bit Forge](https://github.com/shaheeralii/BitForge)
+### ⚒️ [BitForge](https://github.com/shaheeralii/BitForge)
 
-A browser-based toolkit for exploring **number systems, binary representation, bits, signed integers, two's complement, binary operations, and character encoding** through interactive visualizations.
+A browser-based **Computer Science learning toolkit** for exploring how computers represent and manipulate numbers at the bit level.
 
-The project brings several low-level computing concepts together into a practical interactive experience rather than presenting them as isolated calculations.
+BitForge brings together **number systems, binary arithmetic, signed representations, bit manipulation, character encoding, and IEEE-754 floating-point concepts** into one interactive environment, with step-by-step derivations designed to make the underlying logic visible rather than treating the result as a black box.
 
 **Highlights**
 
-- Multi-base number system conversion
-- Interactive bit-grid visualization
-- Signed integer and two's-complement operations
-- Text & ASCII character conversion
-- Binary representation exploration
-- Binary operations (add, subtract, multiply, div)
+* Multi-base conversion across bases 2–36
+* Interactive 8/16/32-bit representation and signed-integer views
+* Two's Complement, Sign-Magnitude, and One's Complement
+* Binary addition, subtraction, multiplication, and division with carry, borrow, and overflow analysis
+* UTF-8 / ASCII text encoding and binary representation
+* IEEE-754 Floating-Point Explorer for Binary16, Binary32, Binary64, and custom formats
+* Activity history, copy/share tools, accessibility support, and reduced-motion handling
+* Optional **BitForge AI** for guided exploration and explanations
 
-**Tech:** `HTML` · `CSS` · `JavaScript`
+**Tech:** `React` · `TypeScript` · `Vite` · `Tailwind CSS`
 
-**Live:** [bitforge-tool.vercel.app](https://bitforge-tool.vercel.app/)  
+**Live:** [bitforge-tool.vercel.app](https://bitforge-tool.vercel.app/)
 **Repo:** [github.com/shaheeralii/BitForge](https://github.com/shaheeralii/BitForge)
+
 
 ---
 
