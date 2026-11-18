@@ -156,7 +156,7 @@ An ongoing archive of **Computer Science lab coursework, implementations, experi
 
 Rather than treating coursework as disposable submissions, this repository serves as a running record of how I practice, implement, and iterate on programming fundamentals throughout my degree.
 
-**Focus:** `C++` · `Programming Fundamentals` · `Problem Solving` · `Lab Work`
+**Focus:** `Java` · `C++` · `Programming Fundamentals` · `Problem Solving` · `Lab Work`
 
 **Repo:** [github.com/shaheeralii/CSLabs](https://github.com/shaheeralii/CSLabs)
 
@@ -164,7 +164,7 @@ Rather than treating coursework as disposable submissions, this repository serve
 
 ## 🧩 Problem Solving
 
-I've participated in **Speed Programming competitions**, solving programming challenges through **HackerRank**.
+I've participated in **Speed Programming competitions**, solving programming challenges through **LeetCode** and **HackerRank**.
 
 These experiences have given me practical opportunities to work on:
 
